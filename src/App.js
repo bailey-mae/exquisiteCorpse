@@ -16,9 +16,7 @@ function App() {
         <pen/>
 
       <div className='controlPanel'>
-          {/*<pen src={pen}></pen>*/}
-          {/*<pen/>*/}
-          <button className="pen" src={pen} alt="pen"/>
+          <img src={pen} alt="pen"/>
           {/*<button className="colorPicker" data-clr="#fff"></button>*/}
           {/*<button className="colorPicker" data-clr="#EF626C"></button>*/}
           {/*<button className="colorPicker" data-clr="#24d102"></button>*/}

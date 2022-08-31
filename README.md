@@ -13,9 +13,6 @@ View the IaC for the drawing concatentation and tagging at: https://github.com/I
 In the project directory, run:
  `npm start`
 
-### `npm test`
-
 To create a production build
-
-### `npm run build`
+`npm run build`
 
