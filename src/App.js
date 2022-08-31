@@ -9,7 +9,7 @@ function App() {
     <div className="App">
           <img className="Logo" src={Logo} alt="logo"/>
       <div className='canvasAlignment'>
-          <Canvas className="Canvas" width={700} height={500}/>
+          <Canvas testId="canvas" className="Canvas" width={700} height={500}/>
       </div>
         <div>
         </div>
